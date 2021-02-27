@@ -40,7 +40,7 @@ command ran : ***$  otp -d cipher.txt -k key.txt***
 
 ![Decrypting a file or string](https://github.com/snehilk1312/one-time-pad/blob/main/output-screenshots/04_decode.png?raw=true)
 
-The output plaintext will be ***plaintext.txt" in working directory  .
+The output plaintext will be ***plaintext.txt*** in working directory  .
 
 
 
